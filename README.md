@@ -1,4 +1,4 @@
-# Sistema de Login com Autenticação** 🔐
+# Sistema de Login com Autenticação 🔐
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/joão-vitor-teixeira-fernandes-bb88012b3)
 
