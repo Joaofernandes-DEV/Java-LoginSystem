@@ -2,8 +2,6 @@
 
 Projeto desenvolvido em Java para a criação de um sistema básico de login, com foco em aplicar conceitos de programação orientada a objetos, autenticação de usuários e manipulação de dados. Este projeto busca simular a funcionalidade de login comum em sistemas, permitindo o cadastro e autenticação de usuários.
 
-[Clique aqui para acessar o repositório no GitHub](https://github.com/Joaofernandes-DEV/Java-LoginSystem.git)
-
 ---
 
 ## 📋 **Descrição do Projeto**
